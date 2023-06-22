@@ -1,9 +1,11 @@
-# Proyecto04_Buscaminas
-Buscaminas ensamblador x86
+# Proyecto 04: Buscaminas Ensamblador x86
 
-Integrantes:
+## Descripción
+Este proyecto consiste en la implementación del juego Buscaminas en lenguaje ensamblador x86. El Buscaminas es un juego clásico en el que el jugador debe despejar un campo de minas evitando hacer clic en casillas que contengan minas ocultas.
 
-Eyden Su Díaz
-Angela  Aguilar Salazar
-Elder Leon Perez
-Brasly Villarebia Morales
+## Integrantes
+
+- Eyden Su Díaz
+- Angela Aguilar Salazar
+- Elder Leon Perez
+- Brasly Villarebia Morales
